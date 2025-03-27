@@ -19,3 +19,4 @@ export {
 } from './lib/utils/interfaces';
 export { NgxUiLoaderRouterModule } from './lib/router/ngx-ui-loader-router.module';
 export { NgxUiLoaderHttpModule } from './lib/http/ngx-ui-loader-http.module';
+export { ngxUiLoaderHttpFnInterceptor } from './lib/http/ngx-ui-loader-http-fn.interceptor';
